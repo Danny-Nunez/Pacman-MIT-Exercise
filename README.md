@@ -1,9 +1,10 @@
 # PACMAN Exercise
-## Description
-When the Add Pacman button is pressed a Pacmen is added to the array of Pacman, which keeps track of the position and velocity of each Pacman. The Pacmen bounce of the walls changing direction. Also the mouth opens en closes. 
-
+MITxPRO Exercise - GitHub Testing and the DOM
 <img src="images/screenshotPacman.png">
 
+
+## Description
+When the Add Pacman button is pressed a Pacmen is added to the array of Pacman, which keeps track of the position and velocity of each Pacman. The Pacmen bounce of the walls changing direction. Also the mouth opens en closes. 
 
 ## How to run
 There are no dependencies. This should run inside the browser without the need for a proxy server
