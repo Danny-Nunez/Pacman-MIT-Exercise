@@ -1,6 +1,6 @@
 # PACMAN Exercise
 MITxPRO Exercise - GitHub Testing and the DOM
-<img src="images/screenshotPacman.png">
+<img src="images/screenshotPacman.png" width='600'>
 
 
 ## Description
