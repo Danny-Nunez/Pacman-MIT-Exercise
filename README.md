@@ -2,6 +2,8 @@
 MITxPRO Exercise - GitHub Testing and the DOM
 <img src="images/screenshotPacman.png" width='600'>
 
+View Demo👇: <br />
+https://sparkly-twilight-1de662.netlify.app/
 
 ## Description
 When the Add Pacman button is pressed a Pacmen is added to the array of Pacman, which keeps track of the position and velocity of each Pacman. The Pacmen bounce of the walls changing direction. Also the mouth opens en closes. 
